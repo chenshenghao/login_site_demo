@@ -1,0 +1,15 @@
+phrase:
+  access_token: 36ee393b19a60467f2cdc8f604f1fd4e5410139c2fdc4fa03d4dff11872931f3
+  project_id: 23129d360e3718a82bcd5e76ebc34ca4
+  push:
+    sources:
+    - file: ./source/i18n.json
+      params:
+        file_format: node_json
+        update_translations: true
+        locale_id: 401e9a2db9694c05e0ef479e8648fa8a
+  pull:
+    targets:
+    - file: ./locales/<locale_name>.json
+      params:
+        file_format: node_json
