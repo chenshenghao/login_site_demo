@@ -3,6 +3,7 @@ module.exports = {
       CN: {
         page_list_category: '所属类别',
         page_list_category1: '类目一',
+		page_list_category2: '类目二',
         page_list_justLook: '只看自己的',
         page_list_owner: 'owner',
         page_list_other: '其他选项',
@@ -155,6 +156,7 @@ module.exports = {
       US: {
         page_list_category: 'Category',
         page_list_category1: 'category 1',
+		page_list_category2: 'category 2',
         page_list_justLook: 'justlook',
         page_list_owner: 'owner',
         page_list_other: 'Other',
