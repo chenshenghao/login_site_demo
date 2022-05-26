@@ -3,7 +3,7 @@ phrase:
   project_id: 23129d360e3718a82bcd5e76ebc34ca4
   push:
     sources:
-    - file: ./source/i18n.json
+    - file: ./source/i18n.js
       params:
         file_format: node_json
         update_translations: true
