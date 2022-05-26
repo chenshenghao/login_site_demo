@@ -158,7 +158,7 @@ module.exports = {
         page_list_category: 'Category',
         page_list_category1: 'category 1',
         page_list_category2: 'category 2',
-        page_list_category3: 'category 3',
+        page_list_category3: 'Category 3',
         page_list_justLook: 'justlook',
         page_list_owner: 'owner',
         page_list_other: 'Other',
