@@ -1,13 +1,13 @@
 phrase:
-  access_token: 36ee393b19a60467f2cdc8f604f1fd4e5410139c2fdc4fa03d4dff11872931f3
-  project_id: 23129d360e3718a82bcd5e76ebc34ca4
+  access_token: 96c491babf683d0db9de9588e5ed747e06816f5c0d371f76f7e4eb67b05a4a51
+  project_id: 65d53210ed0ddb87b8ae98a83370ca9d
   push:
     sources:
     - file: ./source/en_US.js
       params:
-        file_format: node_json
+        file_format: ember_js
         update_translations: true
-        locale_id: 401e9a2db9694c05e0ef479e8648fa8a
+        locale_id: f001dfc4dba6b84e9220d8976938631d
   pull:
     targets:
     - file: ./locales/<locale_name>.json
